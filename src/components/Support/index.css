@@ -1,0 +1,17 @@
+.supp1{
+    background-color: #00d084;
+    width:40vw;
+    padding:10px;
+    height:50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+.supp{
+    display: flex;
+    width:90vw;
+    margin-top: 30px;
+    flex-direction: row;
+    justify-content: space-between;
+}

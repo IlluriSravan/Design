@@ -1,0 +1,28 @@
+.area{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin-bottom: 30px;
+}
+.area-left{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.auth-img{
+    width:50vw;
+}
+p{
+    text-align: left;
+}.button-nav{
+    margin-right:20px;
+    border:1px solid #00185a;
+    background-color: #00185a;
+    color:white;
+    height:40px;
+    
+}
+.quot{
+    font-size: 40px;
+}

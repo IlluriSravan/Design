@@ -1,0 +1,73 @@
+.ham-display{
+    display: block;
+    position: fixed;
+    top:10px;
+    z-index:1;
+    border:1px solid gray;
+    height:70vh;
+}
+.ham-hidden{
+    display: none;
+}
+.item-ham-side{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.item-ham-side1{
+    display: flex;
+    flex-direction: row;
+}
+.logo-img{
+    width:150px;
+    height:50px;
+}
+.DK{
+    font-weight: none;
+    font-size: 15px;
+}
+.button-nav{
+    margin-right:20px;
+    border:1px solid #00185a;
+    background-color: #00185a;
+    color:white;
+    height:40px;
+    
+}
+.nav-right{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-top{
+    background-color: white;
+    height:8vh;
+    position: sticky;
+    top:0;
+    width:95vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.d3{
+    padding-top: 10px;
+    font-size: 15px;
+}
+.button1{
+    background: transparent;
+    border:none;
+
+    height:20px;
+    padding:0;
+}
+.h4,h3{
+    font-family: "Novo Apply Sans",sans-serif;
+    font-size: 15px;
+    font-weight: 0;
+    margin-right: 10px;
+    margin-right:20px;
+    color:#00185a
+}
