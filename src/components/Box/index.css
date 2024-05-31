@@ -21,3 +21,11 @@
     display: flex;
     justify-content: space-between;
 }
+.button-nav{
+    margin-right:20px;
+    border:1px solid #00185a;
+    background-color: #00185a;
+    color:white;
+    height:40px;
+    
+}
